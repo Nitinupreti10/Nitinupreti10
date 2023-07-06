@@ -1,3 +1,4 @@
+![logo](https://github.com/Nitinupreti10/Nitinupreti10/blob/main/Facebook%20Cover%20851x315%20px.png)
 <h1 align="center">Hi 👋, I'm Nitin Upreti</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
